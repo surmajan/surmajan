@@ -1,9 +1,15 @@
 ## Cześć! Jestem Janek 👋
 
+Jestem licencjatem z matematyki stosowanej na Politechnice Łódzkiej ze specjalizacji analiza danych biznesowych.
+
+### Co umiem:
+
+- **Python** (pandas, numpy, scikit-learn, matplotlib, seaborn)  
+- **SQL**, **Jupyter**, **Power BI**, **R**, **VBA**, **Excel**  
+- **Podstawy Machine Learning**
+
 <!--
 **surmajan/surmajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Jestem licencjatem z matematyki stosowanej na Politechnice Łódzkiej ze specjalizacji analiza danych biznesowych.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
