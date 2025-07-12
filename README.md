@@ -1,9 +1,9 @@
-## Hi there 👋
+## Cześć! Jestem Janek 👋
 
 <!--
 **surmajan/surmajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Jestem licencjatem z matematyki stosowanej na Politechnice Łódzkiej ze specjalizacji analiza danych biznesowych.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
