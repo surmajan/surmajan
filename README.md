@@ -5,7 +5,7 @@ Jestem absolwentem matematyki stosowanej (studia I stopnia) na Politechnice Łó
 ### Co umiem:
 
 - **Python** (pandas, numpy, scikit-learn, matplotlib, seaborn)  
-- **SQL**, **Jupyter**, **Power BI**, **R**, **VBA**, **Excel**  
+- **SQL**, **Jupyter**, **Power BI**, **R**, **VBA**, **Excel**, **Java** 
 - **Podstawy Machine Learning**
 
 <!--
