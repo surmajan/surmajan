@@ -1,6 +1,6 @@
 ## Cześć! Jestem Janek 👋
 
-Jestem licencjatem z matematyki stosowanej na Politechnice Łódzkiej ze specjalizacji analiza danych biznesowych.
+Jestem absolwentem matematyki stosowanej (studia I stopnia) na Politechnice Łódzkiej, ze specjalnością analiza danych biznesowych. Obecnie studiuję sztuczną inteligencję i uczenie maszynowe na studiach II stopnia.
 
 ### Co umiem:
 
